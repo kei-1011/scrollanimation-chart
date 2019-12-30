@@ -105,6 +105,11 @@ body{
 
 
 
+footer{
+  height: 80px;
+  background-color: #333;
+}
+
 @media screen and (max-width:768px) {
   .box__item{
     width: 100%;
